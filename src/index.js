@@ -1,5 +1,5 @@
-/// Los Angeles ///
 function updateTime() {
+	/// Los Angeles ///
 	let losAngelesElement = document.querySelector("#los-angeles");
 	if (losAngelesElement) {
 		let losAngelesDateElement = losAngelesElement.querySelector(".date");
